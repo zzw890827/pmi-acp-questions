@@ -277,3 +277,265 @@ What should the agile team lead do?
        D.
 
     </details>
+
+21. How should a project leader manage stakeholder expectations in an agile project?
+    - [ ] A. Establish a common vision and success criteria and involve all the stakeholders in the iteration reviews.
+    - [ ] B. Invite stakeholders for the iteration reviews but do not include new stakeholders which may limit project success.
+    - [ ] C. Involve all the stakeholders in iteration reviews but do not entertain all expectations of all stakeholders.
+    - [ ] D. Communicate issues to all stakeholders via email and only communicate risks to internal stakeholders.
+
+    <details>
+       <summary>Answer</summary>
+
+       A.
+
+    </details>
+
+22. The product owner wants to build security firewalls into the product. How can the team members support this?
+    - [ ] A. Add new security features to the backlog and prioritize.
+    - [ ] B. Execute a spike to research security features for the project.
+    - [ ] C. Ask questions to determine where and how the product owner wants to use the product.
+    - [ ] D. Ask questions to determine if the product owner can define the desired level of security.
+
+    <details>
+       <summary>Answer</summary>
+
+       A. Not clear.
+
+    </details>
+
+23. After a successful product deployment, a key stakeholder informs an agile team member that an implemented feature is failing to deliver its expected business value. The team member replies that the requirement was provided by the customer, and that the scope was clearly met. If the problem were an issue of requirement elicitation rather than delivery, what should have been done to avoid this situation?
+    - [ ] A. Stakeholders should have regularly been engaged to obtain feedback and reduce the functionality risk.
+    - [ ] B. The team should have used the lean principle of delay, so that actual facts could be considered rather than assumptions and predictions.
+    - [ ] C. Interdependent teams should have been engaged using a collaborative approach to identify and leverage the best support.
+    - [ ] D. An owner should have been identified to obtain timely stakeholder feedback.
+
+    <details>
+       <summary>Answer</summary>
+
+       A.
+
+    </details>
+
+24. During a retrospective, team members suggest process improvement ideas. The agile team lead knows that, while many of these ideas are different from standard practices, a few of them are good. What should the agile team lead do?
+    - [ ] A. Require the team to try only those ideas that will ensure success.
+    - [ ] B. Allow the team to try ideas, but remind them that results will be reviewed by high-ranking executives.
+    - [ ] C. Associate idea successes and failures with the team's incentive plan to ensure accountability.
+    - [ ] D. Encourage the team to try the ideas, even if failure may be the outcome.
+
+    <details>
+       <summary>Answer</summary>
+
+       D: From PMI’s Agile Practice Guide, Page 61: “Learning takes place by experimenting, delivering small increments of value, and getting feedback on what has been accomplished thus far.”
+
+    </details>
+
+25. An agile team's client has been asked to expedite the delivery of the next release. By delivering one month early, the company can generate US$40,000 more than expected for the quarter. What should the agile team do?
+    - [ ] A. Adhere to the new deadline and immediately advise the client that the schedule has been expedited.
+    - [ ] B. Advise the client that it is best to continue as planned rather than introduce unforeseen risks by expediting the schedule.
+    - [ ] C. Submit a change request to the client with a 50% increase in charges due to the new potential profit.
+    - [ ] D. Request additional resources to meet the expedited deadline and obtain training for the new resources.
+
+    <details>
+       <summary>Answer</summary>
+
+       B: Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.
+
+    </details>
+
+26. An agile team has been in place for five years and the customer is satisfied with the team's performance and deliverables. Now that the product is built and delivered, the customer is considering the future role of the Scrum Master. What should the customer do?
+    - [ ] A. Expand the Scrum Master's role to other projects, while allowing them to support the current project.
+    - [ ] B. Release the Scrum Master, since the team is adequately skilled with agile practices.
+    - [ ] C. Expand the product owner's role to serve as the Scrum Master, while providing additional product knowledge.
+    - [ ] D. Increase the functional manager's role to act as the Scrum Master, while providing additional information about functional areas.
+
+    <details>
+       <summary>Answer</summary>
+
+       A: I thingk A is the better option. This reference is from Scalade. That could kill the transformation before it even gets started, and before the teams have had a chance to prove the value of the role. Therefore, SAFe takes a pragmatic approach and assumes, in general, that the Scrum Master is a part-time role. During initial SAFe adoption, however, the job may be more intensive. At this stage, the organization may find it beneficial to bring external consultants on board to coach the teams while they become experienced in Scrum and SAFe. These outside consultant Scrum Masters will often coach multiple teams in the organization
+
+    </details>
+
+27. An agile team lead is assigned to a project that must ensure data security. What should the team lead do to guarantee that security, as a non-functional requirement, is managed throughout the project?
+    - [ ] A. Include security concerns on the agenda for every meeting.
+    - [ ] B. Request that a security expert be added to the team.
+    - [ ] C. Add security as a non-functional requirement to the risk register, and review regularly.
+    - [ ] D. Ensure that planning and prioritizing includes consideration of security requirements.
+
+    <details>
+       <summary>Answer</summary>
+
+       D.
+
+    </details>
+
+28. An agile team delivered a feature in the last iteration. The product owner, who missed the planning and review meetings, was dissatisfied with the feature. The team conducted a retrospective and reviewed the user stories related it. What should the agile team do next?
+    - [ ] A. Ensure that the product owner reviews the acceptance criteria for delivered user stories.
+    - [ ] B. Augment the quality assurance and continuous integration processes for delivery.
+    - [ ] C. Approach the relevant developers and testers regarding quality issues in upcoming iterations.
+    - [ ] D. Ask the product owner to define the entire scope of delivery two to three iterations in advance.
+
+    <details>
+       <summary>Answer</summary>
+
+       A.
+
+    </details>
+
+29. An agile team and a traditional development team are working together on a project. Each team exceeds expectations regarding deliverables; however, issues arise when the deliverables are integrated. What should the agile practitioner do?
+    - [ ] A. Foster stronger communication by hosting cross-organizational meetings between the two teams.
+    - [ ] B. Suggest merging the teams to avoid misunderstandings.
+    - [ ] C. Create stories from full technical specifications to avoid ambiguity.
+    - [ ] D. Co-locate the teams to encourage osmotic communication.
+
+    <details>
+       <summary>Answer</summary>
+
+       D: This question seems communication issue.
+
+    </details>
+
+30. After three iterations, it is identified that a project's underlying security structure architecture is unstable. While there is a technical solution, all work to date is flawed. This will impact several future business service offerings. What should the product owner do to resolve this?
+    - [ ] A. Ask the development team to address the issue since it is in their domain.
+    - [ ] B. Review the project's risk matrix, and follow the steps outlined in the risk mitigation plan.
+    - [ ] C. Meet with the team and stakeholders to address rework and rewrite stories as needed.
+    - [ ] D. Cancel the current sprint, and meet with stakeholders to reassess the project's validity.
+
+    <details>
+       <summary>Answer</summary>
+
+       C.
+
+    </details>
+
+31. A product owner obtains customer confirmation on product requirements and provides them to the team. After explaining the user stories, the product owner receives agreement for acceptance from the team. What should the team do next?
+    - [ ] A. Use agile estimation techniques to create a shared understanding of when the user stories will be completed.
+    - [ ] B. Agree upon development and testing activities for the user stories.
+    - [ ] C. Complete the user stories, and provide a demo for the product owner and customer.
+    - [ ] D. Complete the user stories, and hold a retrospective to discuss them.
+
+    <details>
+       <summary>Answer</summary>
+
+       A.
+
+    </details>
+
+32. Midway through a two-week sprint, an agile team realizes that the features cannot be delivered within the sprint. The team determines that another week will be required to complete all committed features. What should the team do?
+    - [ ] A. Plan for overtime, and include the effort as part of the estimation.
+    - [ ] B. Increase team velocity to deliver more story points.
+    - [ ] C. Identify the reason for over-commitment to the sprint and create an action plan for the following sprint.
+    - [ ] D. Add resources to assist with sprint execution.
+
+    <details>
+       <summary>Answer</summary>
+
+       C.
+
+    </details>
+
+33. A key stakeholder cannot attend the project vision statement development workshop. The stakeholder has emailed their requirements to the agile team lead, and believes that the vision statement is not critical. How should the agile team lead respond?
+    - [ ] A. Emphasize to the stakeholder that a common, detailed vision will better ensure team understanding of the project.
+    - [ ] B. Personally meet with the stakeholder to understand their requirements, and then share the vision with the team.
+    - [ ] C. Work with the team to create a vision from the stakeholder's supplied requirements.
+    - [ ] D. Explain to the team that creating a vision is not critical in agile projects, as requirements may change over time.
+
+    <details>
+       <summary>Answer</summary>
+
+       A.
+
+    </details>
+
+34. During the implementation of a story, a scrum team notifies the scrum master of a technical challenge that is causing a delay. What should the scrum master advise the team to do?
+    - [ ] A. Implement the story since the team is running behind schedule.
+    - [ ] B. Create a spike to finalize the story's technical approach.
+    - [ ] C. Transfer the story to a scrum team experienced in solving similar problems.
+    - [ ] D. Ask the product owner to reduce the story's priority and wait until more technical details are available.
+
+    <details>
+       <summary>Answer</summary>
+
+       B.
+
+    </details>
+
+35. At the retrospective, the burndown chart shows that the project is slightly behind schedule. The project team identifies an inexperienced software engineer as the source of reduced velocity. How should the project team address this issue?
+    - [ ] A. Suggest pair programming during the retrospective.
+    - [ ] B. Ask the product owner to re-prioritize the user stories at the next retrospective.
+    - [ ] C. Re-estimate the story points with team members at the next iteration planning meeting.
+    - [ ] D. Assign less complex user stories to the inexperienced software engineer at the next iteration planning meeting.
+
+    <details>
+       <summary>Answer</summary>
+
+       A.
+
+    </details>
+
+36. A team working with a new technology faces a significant amount of uncertainty about its ability to deliver stories due to technical issues. What should the team do?
+    - [ ] A. Capture risks and make them visible, and use a burn down chart to focus on reducing risks early in the project.
+    - [ ] B. Ask the scrum master to extend the sprint's duration to allow more time to work through technical issues.
+    - [ ] C. Place the impacted stories on the story board, and use daily stand ups to make the product owner aware of the technical issues.
+    - [ ] D. Seek guidance from the development manager.
+
+    <details>
+       <summary>Answer</summary>
+
+       A: Issues in agile means risks, which occurred. Agile team should mitigate high risk high value as early as possible.
+
+    </details>
+
+37. A project sponsor is upset that an enhancement will be unavailable until next year. What should the product owner do?
+    - [ ] A. Accept responsibility for the product's delay.
+    - [ ] B. Ensure that the project sponsor's priorities are in the product backlog.
+    - [ ] C. Negotiate with the project sponsor for increased funding.
+    - [ ] D. Empower the project sponsor to manage the product backlog.
+
+    <details>
+       <summary>Answer</summary>
+
+       A.
+
+    </details>
+
+38. A project manager is concerned that the team has misaligned expectations with some stakeholders, and that user stories were written only from a generic user's perspective. This may lead the team to miss stories for non-generic users. What agile tools can help the team address these issues?
+    - [ ] A. Information radiators and wireframes.
+    - [ ] B. Information radiators and story maps.
+    - [ ] C. Process flows and personas.
+    - [ ] D. Personas and extreme characters.
+
+    <details>
+       <summary>Answer</summary>
+
+       D:
+       - Process flow relates to the selected agile methodology/framework rather than product user experience.
+       - Extreme character let you identify non-generic users.
+
+    </details>
+
+39. Throughout the project, an agile practitioner notices that one team member is becoming an emergent leader. What should an agile practitioner do?
+    - [ ] A. Present opportunities in order to be supportive and grow that team member's talents.
+    - [ ] B. Encourage the team member to fit in more with the established team norms.
+    - [ ] C. Bring this to management's attention so they don't disrupt the team.
+    - [ ] D. Ask team member to respect defined roles on the project to avoid confusion with the team.
+
+    <details>
+       <summary>Answer</summary>
+
+       A.
+
+    </details>
+
+40. Unable to meet a sprint's committed velocity, an agile team approaches the agile coach to define the next sprint's velocity. What should the agile coach advise?
+    - [ ] A. Split each story into multiple stories to meet the desired velocity.
+    - [ ] B. Set the velocity to the delivered story points of the last sprint.
+    - [ ] C. Use different estimation methods for stories and defects to meet the desired velocity.
+    - [ ] D. Re-estimate by assigning more story points to smaller stories to increase the velocity.
+
+    <details>
+       <summary>Answer</summary>
+
+       B: Use the last velocity to set the new one.
+
+    </details>
