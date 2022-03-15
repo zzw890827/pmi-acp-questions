@@ -539,3 +539,29 @@ What should the agile team lead do?
        B: Use the last velocity to set the new one.
 
     </details>
+
+41. The project team is ahead of schedule and beginning to gold-plate the feature included in the current sprint. What should the agile project manager do?
+    - [ ] A. Since the team has extra time, notify the product owner and secure approval for the extra work on this feature.
+    - [ ] B. Encourage the team to document the improvement and prioritize it for the upcoming iteration, instead of building it now.
+    - [ ] C. Instruct the Scrum Master to have the team use the extra time to complete the extra feature work in the current iteration.
+    - [ ] D. Notify the product owner and have the product owner verify the backlog priority, then encourage team to continue working on the backlog.
+
+    <details>
+       <summary>Answer</summary>
+
+       D.
+
+    </details>
+
+42. What is the first thing an agile development team should do when planning an iteration?
+    - [ ] A. Assign the tasks to one team member.
+    - [ ] B. Separate the stories into tasks.
+    - [ ] C. Estimate the stories' tasks.
+    - [ ] D. Help establish the next sprint's goal.
+
+    <details>
+       <summary>Answer</summary>
+
+       D: The order is DBCA.
+
+    </details>
