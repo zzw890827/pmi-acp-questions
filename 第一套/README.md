@@ -565,3 +565,237 @@ What should the agile team lead do?
        D: The order is DBCA.
 
     </details>
+
+43. Two teams have received project requirements and completed estimates. Team A estimates 420 story points for scope and 30 story points for velocity per sprint. Team B estimates 280 story points for scope and 20 story points for velocity per sprint. Both teams have same number of team members and have an assumed sprint duration of 2 weeks.What can an agile practitioner conclude about team A and team B's estimates?
+    - [ ] A. Team B has underestimated scope compared to team A.
+    - [ ] B. Team A is more confident in delivering velocity than team B.
+    - [ ] C. Both teams need to indicate their proposed technology before the estimates can be analyzed.
+    - [ ] D. Both teams have estimated the project to be of same size.
+
+    <details>
+       <summary>Answer</summary>
+
+       D: Team A estimate is 420/30 = 14 sprints to complete the project. Team B estimate is 280/20=14 sprints to complete the project. So, the answer is D.
+
+    </details>
+
+44. An agile team is unable to complete all its planned sprint user stories, which results in a decrease of its planned sprint velocity. What should the team do?
+    - [ ] A. Re-estimate the sprint's completed stories to increase and adjust the sprint's velocity.
+    - [ ] B. Increase the duration of the next sprint to accommodate the incomplete user stories and maintain velocity.
+    - [ ] C. Work with the product owner to create a spike with another agile team.
+    - [ ] D. Re-estimate the incomplete stories for the next sprint because its relative size has changed.
+
+    <details>
+       <summary>Answer</summary>
+
+       D: Once stories get completed it is useless to re estimate them again, the team should always focus on stories not yet completed for prioritization and refreshing the backlog before starting the next sprint.
+
+    </details>
+
+45. A new project starts and team members are pooled together to execute it. The team works together and moves from the forming stage into the storming stage. However, potentially destructive conflicts are now arising. What should the agile coach do to develop members into a high-performance team?
+    - [ ] A. Teach the team how to work comfortably in chaos.
+    - [ ] B. Provide strong facilitation and conflict-resolution guidance.
+    - [ ] C. Allow the team to resolve issues on their own.
+    - [ ] D. Observe each team member and advise them on team relationships.
+
+    <details>
+       <summary>Answer</summary>
+
+       B: The storming phase the conflict occurs between team members so the role of SM/Coach is to be ready to facilitate guidance to resolve conflicts among them.
+
+    </details>
+
+46. The amount of information captured in the project's defects is varying within the development team. Team members are becoming frustrated with the defect quality inconsistencies and the frequent clarification required. What should be done to address the issue?
+    - [ ] A. Stop the current iteration to discuss defect quality issues and explore solutions.
+    - [ ] B. Discuss and explore solutions in the next planning meeting and take corrective actions as required.
+    - [ ] C. Generate insights at the next retrospective and adjust processes as decided by the team.
+    - [ ] D. Assign corrective actions to the backlog for the team to identify the mandatory defect information.
+
+    <details>
+       <summary>Answer</summary>
+
+       C.
+
+    </details>
+
+47. At the end of a product development phase, an agile project team confirms that all tests have passed. The product is released, but the customer complains that it is deficient. What should the project team have done prior to product release?
+    - [ ] A. Requested approval from the project sponsor
+    - [ ] B. Undertaken a review of all requirements
+    - [ ] C. Conducted an end-of-phase demonstration
+    - [ ] D. Performed a retrospective to validate project deliverables
+
+    <details>
+       <summary>Answer</summary>
+
+       C: Demo is necessary to get customer feedback. If demo was performed before release, customer would have identified deficiencies.
+
+    </details>
+
+48. What should a team consider when calculating the effort needed to complete a product backlog?
+    - [ ] A. The increase in velocity and cost
+    - [ ] B. A buffer in the sprint to mitigate unexpected risks
+    - [ ] C. Assigning extra points to each task to allow time for changes
+    - [ ] D. Stories describing infrastructure tasks and analysis tasks
+
+    <details>
+       <summary>Answer</summary>
+
+       B.
+
+    </details>
+
+49. A scrum master assumes a project that is essential to organizational growth. The project is expected to be in production for three years. What should the scrum master do first?
+    - [ ] A. Work with the customers to build the product backlog and identify their initial requirements.
+    - [ ] B. Meet with the stakeholders and enterprise architects to understand the project's vision.
+    - [ ] C. Plan and execute a sprint 0 to establish the project's foundational needs.
+    - [ ] D. Create a backlog, and execute a sprint 1 to quickly deliver value to the customers.
+
+    <details>
+       <summary>Answer</summary>
+
+       B: Remember Sprint Panning and execution is not done by the SM only. This is done by the team. SM bridges the Dev. Team and the Stakeholders.
+
+    </details>
+
+50. Why should an agile coach model agile principles and behaviors, become self-aware, and be present?
+    - [ ] A. To better listen, serve and help the team grow their strengths individually and as a team
+    - [ ] B. To convince people what they need to do
+    - [ ] C. To help better disguise the command and control approach
+    - [ ] D. To understand team dynamics and develop a high performing team
+
+    <details>
+       <summary>Answer</summary>
+
+       A.
+
+    </details>
+
+51. Following an upgrade, a software support team is overwhelmed by the number of tickets being submitted by end users. The team's manager is pushing the team to "work smart" by focusing on activities that deliver the most value in the least amount of time. What should the team do?
+    - [ ] A. Work longer hours to complete more of the support backlog.
+    - [ ] B. Work support tickets in the order in which they were received.
+    - [ ] C. Place tickets on hold until the team completes an analysis of the backlog to identify and resolve systemic issues.
+    - [ ] D. Add members to the support team.
+
+    <details>
+       <summary>Answer</summary>
+
+       C.
+
+    </details>
+
+52. On what should an agile team work to achieve predictable flow?
+    - [ ] A. Small user stories
+    - [ ] B. Simple acceptance criteria
+    - [ ] C. Lean features
+    - [ ] D. Lean backlogs
+
+    <details>
+       <summary>Answer</summary>
+
+       A: Small stories make flow more predictable because small stories are more manageble then large one.
+
+    </details>
+
+53. An agile project leader is delivering a team kick-off session. The first exercise is a "Life Timeline", a story-telling exercise where each team member tells their life story, explains how they experienced the highs and lows of their journey, and identifies their fears and hopes. What is the project leader trying to create?
+    - [ ] A. A safe space for team members to learn to trust one another, leading to collaborative relationships.
+    - [ ] B. A safe space for team members to learn to be vulnerable, leading to high performance relationships.
+    - [ ] C. A safe space for team members to learn to share, leading to collaborative relationships.
+    - [ ] D. A safe space for team members to learn about each other's weaknesses and strengths.
+
+    <details>
+       <summary>Answer</summary>
+
+       A: From PMI’s Agile Practice Guide, Page 47: “The best place to start when forming agile teams is by building a foundational trust and a safe work environment to ensure that all team members have an equal voice and can be heard and considered. This, along with building the agile mindset is the underlying success factor—all other challenges and risks can be mitigated.”
+
+    </details>
+
+54. What should the agile practitioner know about tracking velocity?
+    - [ ] A. A team with an average velocity of 50 is twice as efficient as a team with an average velocity of 25.
+    - [ ] B. A team with an average velocity of 50 is equally as efficient as a team with an average velocity of 25.
+    - [ ] C. A team that consistently meets its planned velocity is more efficient than a team that consistently exceeds its planned velocity.
+    - [ ] D. A team that consistently meets its planned velocity is less efficient than a team that constantly exceeds its planned velocity.
+
+    <details>
+       <summary>Answer</summary>
+
+       C: Constantly exceeding your planned velocity doesn't make you efficient.
+
+    </details>
+
+55. During an iteration, an agile team discovers infrastructure requirements that were not initially considered. What should the team do to effectively manage this?
+    - [ ] A. Rework the iteration scope to accommodate these requirements.
+    - [ ] B. Add these requirements into the product backlog for future consideration.
+    - [ ] C. Raise the discovery of these requirements as an issue, and escalate to management.
+    - [ ] D. Immediately start working on these requirements.
+
+    <details>
+       <summary>Answer</summary>
+
+       B.
+
+    </details>
+
+56. During a project's last few sprints, an agile practitioner notices an increase in defects. A root-cause analysis indicates that a poor understanding of the requirements was caused by the inability of the product owner to communicate clearly. What should the agile practitioner do?
+    - [ ] A. Inform the product owner's manager so that corrective action may be taken.
+    - [ ] B. Communicate this to the product owner, and offer to help facilitate discussions with the team.
+    - [ ] C. Encourage a team member to raise this during the retrospective to ensure that the product owner is aware.
+    - [ ] D. Escalate this issue to the sponsor so that corrective action may be taken.
+
+    <details>
+       <summary>Answer</summary>
+
+       B.
+
+    </details>
+
+57. An event management team is following an agile approach to prepare for an upcoming conference. The regional sales manager, from where the conference is to be held, contacts the team with a number of questions about the company's booth. What should the team do?
+    - [ ] A. Inform the sponsor about the regional sales manager's disruptiveness and ask that all questions be diverted to the weekly meetings.
+    - [ ] B. Stay focused on the current iteration and let the project manager deal with the regional sales manager's questions.
+    - [ ] C. Invite the regional sales manager to the next iteration review to share the progress.
+    - [ ] D. Create a risk on the risk register to account for some potentially new requirements from the regional sales manager.
+
+    <details>
+       <summary>Answer</summary>
+
+       B: First, the question asking about something related to company's booth which is not related to product or value. Secondly, the team should focus on the sprint and the leader should shied them from any interruption. Therefore, B answers one of the Project leader role to shied the team during the sprint.
+
+    </details>
+
+58. An agile team is working well together, but productivity has been flat. What can the project leader do to help them improve performance?
+    - [ ] A. Review the burndown chart to identify ways to increase efficiency.
+    - [ ] B. Chair a weekly team retrospective focusing on identifying areas for continuous improvement.
+    - [ ] C. Ask a senior manager to initiate a root-cause analysis.
+    - [ ] D. Identify team key performance indicators (KPIs) and create positive incentives when targets are achieved.
+
+    <details>
+       <summary>Answer</summary>
+
+       B: Use retrospective to learn and improve. Team is not learning or improving, that's why productivity is flat.
+
+    </details>
+
+59. During an iteration planning meeting, the team suggests changes to add product value that will require extra work and impact the schedule. What should the agile project leader do?
+    - [ ] A. Re-estimate the project.
+    - [ ] B. Finish the product as it was initially planned.
+    - [ ] C. Try to include as many changes as possible.
+    - [ ] D. Ask the product owner for approval to proceed.
+
+    <details>
+       <summary>Answer</summary>
+
+       D.
+
+    </details>
+
+60. What can a team use to prioritize stories?
+    - [ ] A. MoSCoW method
+    - [ ] B. Planning poker technique
+    - [ ] C. Weighted average calculation
+    - [ ] D. INVEST scale
+
+    <details>
+       <summary>Answer</summary>
+
+       A.
+
+    </details>
