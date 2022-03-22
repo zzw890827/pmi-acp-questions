@@ -799,3 +799,266 @@ What should the agile team lead do?
        A.
 
     </details>
+
+61. The agile practitioner has determined that two different team members are working on addressing the same major issue on the project. How should the agile practitioner address this?
+    - [ ] A. Implement a burnup chart and add the issue resolution as a task to the product backlog for the customer to prioritize.
+    - [ ] B. Add the issue to the kanban board and assign it to the team member who has made the most progress on resolving it.
+    - [ ] C. Conduct a root-cause analysis on the issue and identify related risks and risk response owners at the next retrospective.
+    - [ ] D. Document all project issues in a common space and ask the team members to decide on task allocation principles.
+
+    <details>
+       <summary>Answer</summary>
+
+       D.
+
+    </details>
+
+62. A development team, new to scrum, questions the need to collect metrics on team performance. While team members understand velocity and burn down, they feel that once velocity becomes settled it is needless to keep track. What should the agile coach tell the team?
+    - [ ] A. Continuing to track velocity allows functional managers to assess whether or not the team is performing at the desired rate.
+    - [ ] B. The trends will show how the team performs against other scrum teams in the organization.
+    - [ ] C. Tracking velocity will provide a baseline for the team to see how their continuous improvement efforts are working.
+    - [ ] D. Tracking velocity will document and communicate team health to the stakeholders.
+
+    <details>
+       <summary>Answer</summary>
+
+       C.
+
+    </details>
+
+63. A product owner adds a 21-point, high-priority story to a sprint backlog. The team is concerned that it cannot be completed during the current sprint. What should the team do?
+    - [ ] A. Advise the product owner that the story will have to wait until the next sprint.
+    - [ ] B. Work extra hours to complete the story and satisfy the customer's requirements.
+    - [ ] C. Break down the story into smaller increments and negotiate other stories on the sprint backlog.
+    - [ ] D. Increase the length of the sprint to accommodate the story.
+
+    <details>
+       <summary>Answer</summary>
+
+       C.
+
+    </details>
+
+64. How can a scrum team obtain more feedback from a minimally responsive outside stakeholder?
+    - [ ] A. Keep sprints short.
+    - [ ] B. Invite the stakeholder to the daily stand ups.
+    - [ ] C. Ask the stakeholder for estimates for each user story.
+    - [ ] D. Schedule more demos during each sprint.
+
+    <details>
+       <summary>Answer</summary>
+
+       A.
+
+    </details>
+
+65. During mid-sprint changes, an agile facilitator meets with the executive and development teams. During the meeting, executive team members resolve conflicts, and on their own initiative, review the iteration charts to discuss changes to the iteration's functional goal. What practice is the agile facilitator implementing?
+    - [ ] A. Building openness and transparency on the project's health and status
+    - [ ] B. Facilitating conflict resolution among executive team members
+    - [ ] C. Using active stakeholder involvement to build features in an incremental and iterative approach
+    - [ ] D. Seeking continuous feedback from executive team members
+
+    <details>
+       <summary>Answer</summary>
+
+       D.
+
+    </details>
+
+66. A Scrum Master would like to provide information to key stakeholders on the daily resource and project activities.Which tool should the Scrum Master use to provide these updates?
+    - [ ] A. Shared vision statement and sprint goal
+    - [ ] B. Release burnup chart
+    - [ ] C. Velocity metrics
+    - [ ] D. Iteration burndown chart
+
+    <details>
+       <summary>Answer</summary>
+
+       D.
+
+    </details>
+
+67. A team is delivering work as per the sprint plan, and team velocity is stabilized. However, at the end of the release, the customer is dissatisfied with project quality.What should the agile project manager have done to avoid this?
+    - [ ] A. Invited end customers to attend the stand ups
+    - [ ] B. Organized design review sessions with the customer to obtain sign-off
+    - [ ] C. Held regular meetings with the product owner and project team to elicit detailed business requirements
+    - [ ] D. Conducted frequent review meetings with the customer to continually enhance delivery effectiveness
+
+    <details>
+       <summary>Answer</summary>
+
+       D.
+
+    </details>
+
+68. A scrum team has conducted regular retrospectives to discuss immediate concerns and the implementation of improvement actions. Despite this, after a few iterations, the same concerns resurface. What should the team have done to improve retrospective outcomes?
+    - [ ] A. Invited subject matter experts (SMEs)
+    - [ ] B. Conducted problem detection to determine root causes
+    - [ ] C. Measured and reported the outcome of improvement actions to the team
+    - [ ] D. Kept track of all current issues in a log, and then reviewed their progress at the end of every iteration
+
+    <details>
+       <summary>Answer</summary>
+
+       B.
+
+    </details>
+
+69. During a daily stand up, the tester engages the developer in a discussion about what will be tested during unit testing versus regression testing. What should the scrum master do?
+    - [ ] A. Ask the tester and developer to discuss it after the meeting, since it is not a part of the daily stand up.
+    - [ ] B. Encourage the discussion to resolve impediments.
+    - [ ] C. After the meeting, escalate this issue to the tester's supervisor to ensure that this does not reoccur.
+    - [ ] D. Ask more questions about the testing techniques to obtain clarification on team efforts for quality improvements.
+
+    <details>
+       <summary>Answer</summary>
+
+       A: From PMI’s Agile Practice Guide, Page 54: “Another antipattern typically seen in standups is that the team begins to solve problems as they become apparent. Standups are for realizing there are problems—not for solving them. Add the issues to a parking lot, and then create another meeting, which might be right after the standup, and solve problems there.”
+
+    </details>
+
+70. Stakeholders have conflicting requirements, and the product owner is struggling to decide which user stories to write. What should the product owner do?
+    - [ ] A. Ask the agile practitioner to help write the user stories.
+    - [ ] B. Ask the agile team to facilitate a story-writing workshop.
+    - [ ] C. Ask subject matter experts (SMEs) to help write the user stories.
+    - [ ] D. Ask the agile practitioner to facilitate a story-writing workshop.
+
+    <details>
+       <summary>Answer</summary>
+
+       - [ ] A. Coach is not responsible nor have qualification in priorities and stories.
+       - [ ] B. Team is not responsible for coaching stakeholders.
+       - [ ] C. This answer leads us force some opinion and NOT engage the team/stakeholders
+       - [x] D. You coach stakeholders about agile and you engage all relevant people via workshop to make a group decision (buy-in etc)
+
+    </details>
+
+71. An agile team provides feedback that user stories include insufficient details to understand the requirements. What should the agile practitioner do?
+    - [ ] A. Coach the product owner to update only the acceptance criteria.
+    - [ ] B. Instruct the agile team to fix the user stories during the next retrospective.
+    - [ ] C. Facilitate a user story workshop with the agile team.
+    - [ ] D. Inform the product owner's manager that the work items provide insufficient detail.
+
+    <details>
+       <summary>Answer</summary>
+
+       C.
+
+    </details>
+
+72. A senior team member feels underutilized. What should the agile practitioner do?
+    - [ ] A. Transfer the senior member to another team that will more fully utilize their skill set.
+    - [ ] B. Conduct a performance evaluation to determine whether or not this member is a team player.
+    - [ ] C. Encourage the project team to involve the senior member in more project activities.
+    - [ ] D. Ask the functional manager to determine the best course of action.
+
+    <details>
+       <summary>Answer</summary>
+
+       C.
+
+    </details>
+
+73. Business stakeholders of an agile project frequently skip the review meetings. What should the agile practitioner do?
+    - [ ] A. Ask the product owner to inform all stakeholders about the project's progress.
+    - [ ] B. Send meeting notes to all stakeholders after each review meeting.
+    - [ ] C. Include the results of the review meetings in the information radiators.
+    - [ ] D. Convince the stakeholders of the benefits of attending the review meetings.
+
+    <details>
+       <summary>Answer</summary>
+
+       D.
+
+    </details>
+
+74. An agile practitioner becomes a Scrum Master on an established Scrum team. After introductions, what should the agile practitioner do?
+    - [ ] A. Coach team members to improve functional specialties and increase overall velocity.
+    - [ ] B. Identify where team processes misalign with accepted Scrum practices.
+    - [ ] C. Facilitate the identification of problems or issues and help the team resolve them.
+    - [ ] D. Review the backlog to ensure that it is prioritized, refined, and properly tasked.
+
+    <details>
+       <summary>Answer</summary>
+
+       C.
+
+    </details>
+
+75. An agile team is working on the first sprint, and have already planned the second and third sprints. However, market conditions now require a change to the features. What should the product owner do?
+    - [ ] A. Communicate the importance of the business need to the team and refine the product backlog.
+    - [ ] B. Ask the team to discuss the changes to the features with the customer.
+    - [ ] C. Meet with the agile team lead to prioritize the requirements.
+    - [ ] D. Discuss and prioritize the requirements with the team.
+
+    <details>
+       <summary>Answer</summary>
+
+       A.
+
+    </details>
+
+76. While attending a conference, an agile practitioner learns of a new user interface (UI) framework that could benefit the team. What should the agile practitioner do next?
+    - [ ] A. Identify a team member to do a proof of concept using this framework.
+    - [ ] B. Email the team directing them to immediately begin using this new framework.
+    - [ ] C. Obtain feedback from team members on the new framework, and then suggest that the product owner create a backlog item to do a spike on it.
+    - [ ] D. Discuss this option at the next retrospective.
+
+    <details>
+       <summary>Answer</summary>
+
+       C.
+
+    </details>
+
+77. A product owner with experience in a predictive approach wants the team to develop very detailed schedules and cost estimates for the next 10 sprints. What should the Scrum Master do?
+    - [ ] A. Suggest the product owner start by focusing on the next 2 sprints instead of 10
+    - [ ] B. Spend the first few sprints to develop detailed schedules and budgets
+    - [ ] C. Invite the product owner to the retrospective to explain the team's approach to schedule and budget
+    - [ ] D. Explain that detailed project schedules and budgets are not artifacts in agile projects
+
+    <details>
+       <summary>Answer</summary>
+
+       D.
+
+    </details>
+
+78. During a six-week iteration, an issue is identified by a team member. After analysis, the team member determines that it will take at least two weeks to resolve. What should the team member do?
+    - [ ] A. Notify the product owner and begin resolution.
+    - [ ] B. Communicate the issue to the team in the next stand up meeting.
+    - [ ] C. Immediately begin resolution, and communicate it to the team during the retrospective.
+    - [ ] D. Work on the next activity, and communicate it to the team during the retrospective.
+
+    <details>
+       <summary>Answer</summary>
+
+       B.
+
+    </details>
+
+79. An agile team identifies that their velocity is lower than predicted, and that their previous forecasts in the product roadmap are wrong. The team is worried that they will be unable to meet a critical release date without corrective action. What should the team do?
+    - [ ] A. Collaborate with the product owner to reprioritize the product backlog, thus ensuring that more features will be completed before the release.
+    - [ ] B. Ask the team lead to calculate the team's target velocity according to the project plan, and assign additional resources to increase capacity.
+    - [ ] C. Focus on velocity and schedule concerns during the retrospective to inspect, adapt, and improve the process and plans.
+    - [ ] D. Reestimate the backlog items from the release, ensuring that contingency is included to set stakeholder expectations.
+
+    <details>
+       <summary>Answer</summary>
+
+       C.
+
+    </details>
+
+80. A new CIO advocates an agile framework for new IT projects, but the team has reservations. How should the CIO ensure that the team will be aligned with this?
+    - [ ] A. Obtain executive team buy-in by conducting a meeting to present the advantages of agile principles and processes.
+    - [ ] B. Issue a memo of understanding that agile principles should be implemented for all new projects.
+    - [ ] C. Introduce agile principles and processes, then make the change an experiment to obtain buy-in.
+    - [ ] D. Require all staff and management to attend agile training and adhere to its principles.
+
+    <details>
+       <summary>Answer</summary>
+
+       C.
+
+    </details>
