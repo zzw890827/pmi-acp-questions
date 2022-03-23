@@ -1062,3 +1062,269 @@ What should the agile team lead do?
        C.
 
     </details>
+
+81. An agile team has been given a complex project with a basic set of requirements which need further elaboration and review. How should the team iteratively build out the backlog of requirements with the stakeholders?
+    - [ ] A. Conduct a requirements gathering workshop.
+    - [ ] B. Deliver the basic requirements iteratively.
+    - [ ] C. Have the product owner fill out the requirements backlog.
+    - [ ] D. Have the stakeholders fill out the backlog before starting the project.
+
+    <details>
+       <summary>Answer</summary>
+
+       A.
+
+    </details>
+
+82. An executive requests information regarding a sprint status. What action should the product owner take?
+    - [ ] A. Invite the executive to the standup.
+    - [ ] B. Direct the executive to the information radiator.
+    - [ ] C. Personally meet with the executive.
+    - [ ] D. Email the requested information to the executive.
+
+    <details>
+       <summary>Answer</summary>
+
+       B.
+
+    </details>
+
+83. A product that recently went to market is receiving a great deal of attention from upper management who expresses interest by directly emailing and calling the developer team. The team expresses frustration during a standup. What should the Scrum Master do?
+    - [ ] A. Ask the product owner how upper management's comments can be redirected.
+    - [ ] B. Direct the developer team to ignore the phone calls and emails.
+    - [ ] C. Ask the product owner to enter the requests into the product backlog as high priority.
+    - [ ] D. Personally respond to upper management's phone calls and emails.
+
+    <details>
+       <summary>Answer</summary>
+
+       A.
+
+    </details>
+
+84. During a backlog refinement meeting, a senior team member raises a concern about an epic sizing that requires the use of a new interface for a vendor product. The product owner acknowledges this as a risk. What should the product owner do now?
+    - [ ] A. Log the risk in the risk register, and share the information with impacted stakeholders at the next monthly review meeting.
+    - [ ] B. Create a spike story to determine what needs to be done to use the new interface.
+    - [ ] C. Lower the epic's priority so that it can be deferred, and analyze it during backlog refinement meetings.
+    - [ ] D. Move the work to the vendor, since they have better knowledge of interface implementation.
+
+    <details>
+       <summary>Answer</summary>
+
+       - [ ] A. No such artifact.
+       - [x] B. The best solution to clarify the size of the work to be done
+       - [ ] C. We don't have any inputs about priorities. Only about sizing.
+       - [ ] D. It's too early to make decision since we are not sure about size.
+
+    </details>
+
+85. An agile team has only one database administrator with the necessary knowledge of database-related tasks. The project manager identifies the risk that if this person leaves, team velocity will significantly decrease. What should the agile coach do?
+    - [ ] A. Start the hiring process for a new, equally skilled database administrator as a replacement.
+    - [ ] B. Move this database administrator to another team so that team members learn database-related tasks.
+    - [ ] C. Add another database administrator to balance the workload and aid with knowledge retention.
+    - [ ] D. Obtain agreement from the team that, on upcoming sprints, the database administrator will act only in an advisory capacity.
+
+    <details>
+       <summary>Answer</summary>
+
+       D.
+
+    </details>
+
+86. A team is creating a highly marketed, time-sensitive product. The agile coach is concerned that anything other than exceptional quality will result in bad publicity for the company. What should the agile coach ensure that developers do?
+    - [ ] A. Establish pair programming partners, and regularly perform peer reviews.
+    - [ ] B. Perform demos at the end of each iteration.
+    - [ ] C. Send coding to the quality assurance (QA) team upon completion.
+    - [ ] D. Demonstrate each feature to the client as soon as coding is complete.
+
+    <details>
+       <summary>Answer</summary>
+
+       A.
+
+    </details>
+
+87. As user stories are developed, what should be done to record and update acceptance criteria?
+    - [ ] A. Add more user stories.
+    - [ ] B. Use sprint retrospectives.
+    - [ ] C. Update current user stories.
+    - [ ] D. Update new tasks in the project plan.
+
+    <details>
+       <summary>Answer</summary>
+
+       C.
+
+    </details>
+
+88. During project inception, an agile practitioner engages the stakeholder to ensure alignment on the project's strategy and vision. The stakeholder asks for detailed requirements, design, and delivery plans. What should the agile practitioner do?
+    - [ ] A. Provide all information requested by the stakeholder
+    - [ ] B. Set expectations regarding the appropriate level of details requested during this stage
+    - [ ] C. Inform the stakeholder that no detailed documents are provided using agile practices
+    - [ ] D. Ask the team to supply the information to the stakeholder
+
+    <details>
+       <summary>Answer</summary>
+
+       B.
+
+    </details>
+
+89. During a sprint, the team encounters a technical problem that becomes an impediment to completing two stories. What should the scrum master do?
+    - [ ] A. Ask the lead developer to identify a solution, and then share the details with the team
+    - [ ] B. Ask a technical manager or architect to determine a solution to the problem
+    - [ ] C. Work with the product owner to add a spike to the next sprint to identify a solution
+    - [ ] D. Create a collaborative team environment so that the team can explore a solution together
+
+    <details>
+       <summary>Answer</summary>
+
+       C.
+
+    </details>
+
+90. During sprint planning, team members have differing opinions on a feature that delivers business value but fails to provide a long-term solution for the customer. How should the team resolve this?
+    - [ ] A. Refer to the values of the agile framework and the team
+    - [ ] B. Review the signed customer contract
+    - [ ] C. Check the sprint priority list
+    - [ ] D. Submit the problem to the product owner
+
+    <details>
+       <summary>Answer</summary>
+
+       D.
+
+    </details>
+
+91. A development team for a small company experiences long delays between product completion and release for validation and testing. The company is concerned that this will impact its ability to compete in the marketplace. What analysis should the team use to understand the issues?
+    - [ ] A. Risk management
+    - [ ] B. Variance and trend
+    - [ ] C. Kano model
+    - [ ] D. Fishbone diagram
+
+    <details>
+       <summary>Answer</summary>
+
+       D.
+
+    </details>
+
+92. A member of the development team is working on a prioritized non-functional requirement involving integrating with a 3 party system. This integration has not been done before on the project. What should the project leader suggest?
+    - [ ] A. Develop and document a detailed architectural design, peer review with the development team, and implement/test
+    - [ ] B. Develop the functional requirements of the solution first before any non-functional requirement, as they provide more customer value
+    - [ ] C. Discuss the integration requirement with the product owner and negotiate it to be lower on the backlog to focus on the minimal marketable feature
+    - [ ] D. Develop and test the implementation approach and demonstrate it at the next sprint review to collect feedback
+
+    <details>
+       <summary>Answer</summary>
+
+       D.
+
+    </details>
+
+93. What should a Scrum Master do when one team member falls behind in their tasks?
+    - [ ] A. Move the task to another team member who has spare capacity in the sprint
+    - [ ] B. Ask the team for suggestions
+    - [ ] C. Privately offer the team member encouragement to meet task commitments
+    - [ ] D. Notify the product owner
+
+    <details>
+       <summary>Answer</summary>
+
+       B: I think B is the right answer. The team ultimately owns the work and is self-organized. While offering the team member encouragement to meet commitments is a good thing, the most effective way to ensure the team can meet the sprint goal is to be transparent with the team about the other member falling behind in tasks. That way they can figure out a strategy to get things back on track.
+
+    </details>
+
+94. A development team and product owner disagree on a user story in the product backlog. What should the agile practitioner do?
+    - [ ] A. Have the development team follow the product owner's direction
+    - [ ] B. Openly challenge the product owner in an effort to poke holes in their approach
+    - [ ] C. Facilitate a conversation about the user story between the development team and the product owner
+    - [ ] D. Serve as a nonpartisan evaluator of each option, and provide direction to the development team and product owner
+
+    <details>
+       <summary>Answer</summary>
+
+       C: Scrum Master is facilitator and coach. He/She can't neither give direction regarding the tasks nor evaluate options.
+
+    </details>
+
+95. Midway through a project, the product owner learns from the sponsor that a major component, which is already 20 percent complete, is unimportant to users. The component was part of the approved scope and a key selling point for the project. What should the product owner do next?
+    - [ ] A. Obtain approval from the change control board to discontinue the component
+    - [ ] B. Ask the team to continue developing the component
+    - [ ] C. Ask the team to discontinue developing the component
+    - [ ] D. Request the sponsor's formal approval to discontinue the component
+
+    <details>
+       <summary>Answer</summary>
+
+       C: Not clear.
+
+    </details>
+
+96. How can an agile practitioner ensure that all key stakeholders are properly engaged in planning?
+    - [ ] A. Collect stakeholder requirements
+    - [ ] B. Conduct an iteration planning meeting
+    - [ ] C. Communicate product backlog items to the stakeholders
+    - [ ] D. Facilitate a product development roadmap workshop
+
+    <details>
+       <summary>Answer</summary>
+
+       D.
+
+    </details>
+
+97. Midway through a sprint, a scrum team member advises the team of a new requirement that may change the initial scope. What should the team do?
+    - [ ] A. Work on requirements that the product owner may have overlooked
+    - [ ] B. Record the scope creep in the change management log
+    - [ ] C. Add the new requirement to the product backlog
+    - [ ] D. Ask the scrum master to secure additional time and resources
+
+    <details>
+       <summary>Answer</summary>
+
+       - [ ] A. Wrong. D.T. can't work on stories that are not prioritized with P.O.
+       - [ ] B. There is no such artifact in Scrum.
+       - [x] C. The best answer. P.B. can be the tool to communicate through Scrum Team.
+       - [ ] D. S.M. does not allocate or secure resources. It can be the correct answer in terms that S.M. should shield and support the team, but C is the best answer.
+
+    </details>
+
+98. A company is considering developing a new, complex application that will require a large initial investment. However, if successful, the profit potential is high. When preparing an analysis, what should be used to encourage stakeholders who are concerned about project failure to authorize the initial investment?
+    - [ ] A. Calculated planned percent complete (PPC)
+    - [ ] B. Many small minimally marketable features (MMFs)
+    - [ ] C. Story points rather than cost estimates
+    - [ ] D. Calculated earned value (EV)
+
+    <details>
+       <summary>Answer</summary>
+
+       B: Many in the agile community have proposed variations on the term MMF, which in many cases alter the intended meaning of the concept. Examples include Minimum Marketable Product and Minimum Releasable Feature. MMF is erroneously equated to MVP. MMF is about delivering value to customers, whereas MVP is about learning more about the ultimate product. An MVP could range anywhere from not having any MMFs, to having a single MMF, to having several MMFs. They are not the same concepts, but both reinforce the idea that we should seek the minimum functionality in order to accomplish a specific outcome.
+
+    </details>
+
+99. Toward the end of a project, the product owner discovers that the project has a high probability of failure due to a critical feature not functioning as expected. What should the product owner do?
+    - [ ] A. Terminate the project to cut losses
+    - [ ] B. Review possible options and make an informed decision to cut losses based on delivered business value
+    - [ ] C. Bring in experts to increase the probability of success
+    - [ ] D. Continue the project, release the product without the failing feature, and fix the feature in a subsequent release
+
+    <details>
+       <summary>Answer</summary>
+
+       B.
+
+    </details>
+
+100. During a review session, an agile team presented done requirements to a group of stakeholders. Stakeholder feedback indicated that the done requirements failed to meet the most pressing needs and provide value. What should the team have done to prevent this?
+     - [ ] A. Reprioritized requirements prior to committing to iteration work
+     - [ ] B. Ensured that requirements remained stable during the iteration cycle
+     - [ ] C. Had stakeholders focus on items created after the product backlog was initially built
+     - [ ] D. Worked on features rather than a set of components
+
+     <details>
+       <summary>Answer</summary>
+
+       A.
+
+     </details>
