@@ -1328,3 +1328,274 @@ What should the agile team lead do?
        A.
 
      </details>
+
+101. When prioritizing features to be delivered in an iteration, on what features should an agile team defer work?
+     - [ ] A. High-risk and high-value
+     - [ ] B. High-risk and low-value
+     - [ ] C. Low-risk and low-value
+     - [ ] D. Low-risk and high-value
+
+     <details>
+       <summary>Answer</summary>
+
+       B.
+
+     </details>
+
+102. An agile team is preparing a release plan for a project. What information will the team need to complete this plan?
+     - [ ] A. Amount of work needed to complete a single user story
+     - [ ] B. Amount of work that can be accomplished by each team member
+     - [ ] C. Amount of work that can be accomplished in an iteration
+     - [ ] D. Amount of work that can be accomplished by the entire team
+
+     <details>
+       <summary>Answer</summary>
+
+       C.
+
+     </details>
+
+103. Based on the backlog metrics in the chart, what can explain the jump in points at the end of iteration 4?
+
+     |Backlog at start|500 points|
+     |----------------|----------|
+     |End of iteration 1|475 points|
+     |End of iteration 2|450 points|
+     |End of iteration 3|425 points|
+     |End of iteration 2|450 points|
+
+     - [ ] A. The team neglected to account for support and maintenance costs associated with other supported products
+     - [ ] B. The team discovered that previously accepted work could be greatly improved and added story points associated with that work
+     - [ ] C. The team realized that some stories were underestimated relative to other stories and reestimated as needed
+     - [ ] D. The team learned that the product owner needed to increase the output in the next release
+
+     <details>
+       <summary>Answer</summary>
+
+       - [ ] A. S&M costs are out of P.B.
+       - [ ] B. There can be a reason to REDO work that already have been done and accepted, but it's definetly a speical case and not the best answer.
+       - [ ] C. C is the best answer
+       - [ ] D. incorrect.
+
+     </details>
+
+104. A new product owner needs to manage the backlog of a high-visibility, fast-moving project that is consuming a considerable amount of time. What should the product owner do?
+     - [ ] A. Schedule regular meetings with the scrum team to write, groom, and size user stories
+     - [ ] B. Focus on stories based on the highest number of story points to first address those items with the highest value
+     - [ ] C. Seek regular input from project stakeholders, and reflect this input in the backlog's priorities
+     - [ ] D. Schedule in-person, monthly meetings with key stakeholders to review the project's progress
+
+     <details>
+       <summary>Answer</summary>
+
+       C.
+
+     </details>
+
+105. What should an agile practitioner do to ensure that the end product meets business requirements?
+     - [ ] A. Invite the team to iteration review meetings
+     - [ ] B. Obtain agreement from the product owner on business requirements
+     - [ ] C. Request that regular reports are sent to stakeholders
+     - [ ] D. Confirm managers and stakeholders are invited to product review meetings
+
+     <details>
+       <summary>Answer</summary>
+
+       D.
+
+     </details>
+
+106. Team A is working on the second sprint of a product release. Team B, which is an interdependent team located on the same floor, requires extensive and frequent information to complete its sprint goal. What should the agile team lead do?
+     - [ ] A. Create a central repository for information, and provide access to team B
+     - [ ] B. Use an information board that will be visible to all passing through the workspace
+     - [ ] C. Email all stakeholders with status updates
+     - [ ] D. Provide team B with the information on an "as needed" basis
+
+     <details>
+       <summary>Answer</summary>
+
+       A.
+
+     </details>
+
+107. A product owner complains that some of the requirements identified several iterations ago have not been implemented. The product owner wants to know why the status of these requirements was not communicated. What should the Scrum Master do?
+     - [ ] A. Point out that the team chose to work on other requirements to speed up the project
+     - [ ] B. Ensure that the product owner reviews the contents of the information radiator
+     - [ ] C. Ensure that the next sprint planning meeting reviews the satisfaction histogram
+     - [ ] D. Point out that it is the responsibility of the product owner to clarify requirements
+
+     <details>
+       <summary>Answer</summary>
+
+       B.
+
+     </details>
+
+108. How can an agile team working on a new product ensure alignment with external stakeholders?
+     - [ ] A. Ask the product owner to provide a detailed product specification document
+     - [ ] B. Conduct story-mapping exercises to clarify deliverables and release priorities
+     - [ ] C. Hold a kick-off meeting to assign roles and responsibilities
+     - [ ] D. Work with the scrum master and stakeholders to ensure agile principles are followed
+
+     <details>
+       <summary>Answer</summary>
+
+       B.
+
+     </details>
+
+109. An agile team is planning the next iteration for a product release that has accumulated technical debt. What should the team do?
+     - [ ] A. Add code cleanup activities to the product backlog and request prioritization by the product owner
+     - [ ] B. Add code cleanup activities to the next iteration and request clarification from the product owner
+     - [ ] C. Add code cleanup activities to the next iteration and ask the product owner to end the current iteration
+     - [ ] D. Add code cleanup activities to the next release backlog and request documentation from the product owner
+
+     <details>
+       <summary>Answer</summary>
+
+       A.
+
+     </details>
+
+110. A project team identifies a number of technical challenges with features in the next sprint. What should they do?
+     - [ ] A. Request direction from the technical manager
+     - [ ] B. Encourage the product owner to reallocate the features to another sprint
+     - [ ] C. Determine who is best qualified to address the challenges
+     - [ ] D. Ask the product owner to assign the tasks to the most appropriately skilled resources
+
+     <details>
+       <summary>Answer</summary>
+
+       C.
+
+     </details>
+
+111. A product owner concludes that the majority of a project's value can be delivered by completing only the first half of the prioritized backlog. What should the product owner do next?
+     - [ ] A. Remove the second half of the backlog, and communicate their decision in the next backlog grooming meeting
+     - [ ] B. Reprioritize backlog items to future iterations
+     - [ ] C. Work with the team to deploy the first half of the backlog to ensure that value is realized
+     - [ ] D. Meet with project stakeholders to review the backlog and determine if the scope should be adjusted
+
+     <details>
+       <summary>Answer</summary>
+
+       C.
+
+     </details>
+
+112. During planning sessions, an agile practitioner notices that some team members do not share common ideas. What should the agile practitioner do?
+     - [ ] A. Ask the team if they would like to adopt alternative techniques
+     - [ ] B. Create a team norms document to set participation guidelines
+     - [ ] C. Ask the scrum master to resolve the issue at the stand up meeting
+     - [ ] D. Capture feedback during lessons learned at the end of the iteration
+
+     <details>
+       <summary>Answer</summary>
+
+       A.
+
+     </details>
+
+113. A company is moving into a new space and is determining the best configuration for offices. The management team is also considering moving to an agile process. What advice should an agilist give?
+     - [ ] A. Arrange the office space to allow co-location of development teams and centrally located information radiators
+     - [ ] B. Isolate each development team to reduce all outside distractions
+     - [ ] C. Ensure management understands the need for isolation to allow for concentration
+     - [ ] D. Define the agile method the company will be using, and implement the office configuration based upon that method
+
+     <details>
+       <summary>Answer</summary>
+
+       A.
+
+     </details>
+
+114. How should an agile project leader interact with the product owner?
+     - [ ] A. Conduct regular one-on-one meetings to review development features and trace them back to the product roadmap
+     - [ ] B. Ensure that they attend regular sprint meetings to provide product-feature feedback
+     - [ ] C. Share any new versions of the project plan with them, including updated statuses for tasks and project milestones
+     - [ ] D. Schedule meetings where they can provide team direction regarding new-feature priorities and upcoming sprints
+
+     <details>
+       <summary>Answer</summary>
+
+       B.
+
+     </details>
+
+115. The team is refining user stories during the backlog grooming session and confused on the acceptance criteria and level of details. What should the agile practitioner do?
+     - [ ] A. Complete the test cases before creating the story in the backlog
+     - [ ] B. Define the detailed business requirements so that the team can continue with development
+     - [ ] C. Define the user stories with just enough details so the team can collaborate continuously
+     - [ ] D. Ensure the acceptance criteria includes testing scenarios, so the team can do thorough testing
+
+     <details>
+       <summary>Answer</summary>
+
+       D.
+
+     </details>
+
+116. During a retrospective meeting, a team develops a large list of initiatives. All will have a positive impact and improve team performance. What should the agile coach do next?
+     - [ ] A. Positively acknowledge the list and share it with management
+     - [ ] B. Immediately have the team implement the initiatives
+     - [ ] C. Help the team choose one or two initiatives for immediate implementation
+     - [ ] D. Ask the team to choose and implement the most complex initiative
+
+     <details>
+       <summary>Answer</summary>
+
+       C.
+
+     </details>
+
+117. A project is starting and the type of work is complex and suitable for agile. In assessing the team members, it appears that co-location would be a challenge. What should the agile practitioner do?
+     - [ ] A. Select and implement collaboration tools to augment team interactions
+     - [ ] B. Provide each geographical area with their own product owner and divide the work between the teams
+     - [ ] C. Increase the number of requirements documents and ensure they are clearly communicated
+     - [ ] D. After several sprints, calculate velocity based on primary team location and use secondary team as reserve
+
+     <details>
+       <summary>Answer</summary>
+
+       A.
+
+     </details>
+
+118. During a project meeting, a team is faced with a difficult decision. After discussion and deliberation, the project leader makes the final decision and ends the discussion. This causes a team member to withdraw from future collaboration. How could the project leader have avoided this?
+     - [ ] A. Led by example by encouraging the team to engage in consensus-driven decision making
+     - [ ] B. Iterated the need for agile teams to make quick decisions, then followed up with that team member
+     - [ ] C. Empowered a team member to facilitate decision making, then made a final decision on behalf of the team
+     - [ ] D. Refrained from participating in the team's decision-making process, except to document and communicate results
+
+     <details>
+       <summary>Answer</summary>
+
+       A.
+
+     </details>
+
+119. The agile team disagrees with the business stakeholders on completing some epics. What could help eliminate misunderstandings?
+     - [ ] A. Agree on requirements with all stakeholders
+     - [ ] B. Begin planning every four iterations
+     - [ ] C. Consider previous sprint demo feedback when planning the next sprint
+     - [ ] D. Include the reasons for the project in the contract
+
+     <details>
+       <summary>Answer</summary>
+
+       C.
+
+     </details>
+
+120. What should a team do when they complete all sprint goals earlier than expected?
+     - [ ] A. Begin working on an item in the backlog
+     - [ ] B. Ask the scrum master to select an item from the backlog on which to work
+     - [ ] C. Ask the product owner to select an item from the backlog on which to work
+     - [ ] D. Jointly decide with the scrum master on an item from the backlog on which to work
+
+     <details>
+       <summary>Answer</summary>
+
+       A.
+
+     </details>
