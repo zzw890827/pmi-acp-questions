@@ -264,3 +264,146 @@
       A.
 
     </details>
+
+21. During planning for the next iteration, an agile team identifies most of the story points that are expected to be delivered. How should an agile practitioner work with the team to help identify the iteration's remaining scope?
+    - [ ] A. Convince the team to stop planning and keep the size small
+    - [ ] B. Identify the technically minimal and achievable tasks
+    - [ ] C. Refer to the remaining prioritized backlog items
+    - [ ] D. Select some of the smallest items from the backlog
+
+    <details>
+      <summary>Answer</summary>
+
+      C.
+
+    </details>
+
+22. A company has decided to combine two similar products consisting of multiple teams into one product. Engaged customers want to know how the company is looking at re-organizing its teams. What strategy should be employed to re-organize the teams?
+    - [ ] A. All the teams from both products should be simultaneously called together and allowed to completely self-manage
+    - [ ] B. Teams that worked on similar components in the separate products should be combined to minimize disruption and capitalize on synergies
+    - [ ] C. After grouping individuals by role, multi-discipline teams should be created that are comprised of one member from each role
+    - [ ] D. Features should be prioritized and then teams should be organized around those priorities
+
+    <details>
+      <summary>Answer</summary>
+
+      A: From PMI’s Agile Practice Guide, Page 39: “Agile encourages self-managing teams, where team members decide who will perform the work within the next period’s defined scope.”
+
+    </details>
+
+23. Early in a project, stakeholder analysis is performed; however, an organizational restructure redefines key roles. What should the project team do?
+    - [ ] A. Note the changes to the restructure and roles that affect team activities
+    - [ ] B. Use direct engagement and two-way conversation to update the stakeholder analysis for any new stakeholder requirements
+    - [ ] C. Email a copy of the project vision to those redefined for key roles and ask if they need to be involved in the project
+    - [ ] D. Obtain a copy of the redefined key roles to update the stakeholder analysis
+
+    <details>
+      <summary>Answer</summary>
+
+      B.
+
+    </details>
+
+24. An agile team notices that the same problems continue to occur during multiple iterations. Several team members have suggestions to fix the problem. What is the proper agile approach to handle this?
+    - [ ] A. Hold frequent retrospectives and share the responsibility for making changes
+    - [ ] B. Understand that this is the nature of innovative business and strive to work harder
+    - [ ] C. Collect team member feedback and discuss them privately with the product owner
+    - [ ] D. Conduct a team-building exercise to increase trust among the team members
+
+    <details>
+      <summary>Answer</summary>
+
+      A.
+
+    </details>
+
+25. During the review session, the product owner discovers that the user interface has a response time of 10 seconds. The non-functional requirements state that it should respond in less than two seconds. The team complains that this requirement was not communicated to them. What should have been done to avoid this?
+    - [ ] A. A comprehensive user story with all non-functional requirements should have been created
+    - [ ] B. Non-functional requirements should have been added to the acceptance criteria
+    - [ ] C. Non-functional requirements should have been added to the definition of done
+    - [ ] D. A team review of the scope of work should have been conducte
+
+    <details>
+      <summary>Answer</summary>
+
+      B: The difference between these two is that the DoD is common for all the User Stories whereas the Acceptance Criteria is applicable to specific User Story. Acceptance Criteria of each User Story will be different based on the requirements of that User Story. [ref](https://www.visual-paradigm.com/scrum/definition-of-done-vs-acceptance-criteria/)
+
+    </details>
+
+26. A technical problem arises that will likely impact the stories planned for delivery in the current sprint. What should the scrum master do?
+    - [ ] A. Consider adding a story to the next sprint to seek resolution
+    - [ ] B. Immediately solve the problem on behalf of the team
+    - [ ] C. Ask the team to collaboratively work out a solution
+    - [ ] D. Engage a technical manager to assist with finding a solution
+
+    <details>
+      <summary>Answer</summary>
+
+      D, not sure.
+
+    </details>
+
+27. An agile coach realizes that a team responsible for a major release is a few months behind schedule. The marketing department is unaware of this delay, and is planning to start the marketing campaign and announce the release. What should the agile coach do?
+    - [ ] A. Meet with the agile team lead to discuss ways to improve team velocity and get back on track
+    - [ ] B. Use this as a learning opportunity and allow the team to handle the situation when the marketing campaign begins
+    - [ ] C. In the upcoming retrospective, discuss ways to improve sharing project status information
+    - [ ] D. Meet with the marketing stakeholders to explain that the team will miss the planned release date
+
+    <details>
+      <summary>Answer</summary>
+
+      C, not sure.
+
+    </details>
+
+28. A client states that a product is not being built as requested. How should the agile team address this?
+    - [ ] A. Conduct an internal review to validate functionality before shipping
+    - [ ] B. Audit the quality control process to ensure that the product adheres to requirements
+    - [ ] C. Lengthen iterations to ensure there is sufficient time to build functionality
+    - [ ] D. Hold product review sessions with the client to obtain product acceptance
+
+    <details>
+      <summary>Answer</summary>
+
+      D.
+
+    </details>
+
+29. Midway through a sprint, the scrum master identifies that reassigning a certain task could help the team meet its sprint goals. What should the scrum master do next?
+    - [ ] A. Alert the team that sprint goals might not be met and create an alternative plan
+    - [ ] B. Obtain team buy-in to perform modifications to the sprint backlog
+    - [ ] C. Have the sprint proceed as planned
+    - [ ] D. Ask the team to decide if the task should be reassigned
+
+    <details>
+      <summary>Answer</summary>
+
+      D: From The Scrum Guide: “As the Developers work during the Sprint, they keep the Sprint Goal in mind. If the work turns out to be different than they expected, they collaborate with the Product Owner to negotiate the scope of the Sprint Backlog within the Sprint without affecting the Sprint Goal.”
+
+    </details>
+
+30. Following a successful product release, senior management asks an agile team how to improve the value of the product for the next release. What should the team do?
+    - [ ] A. Conduct frequent demos and obtain feedback from users throughout the development of the next release
+    - [ ] B. Inform senior management that since the product was successfully released, the project is considered delivered and should be closed
+    - [ ] C. Request additional budget to implement a Scrum of Scrums approach to scale the teams and add capacity
+    - [ ] D. Implement a better definition of done to ensure that continuous integration processes are managed effectively
+
+    <details>
+      <summary>Answer</summary>
+
+      A.
+
+    </details>
+
+31. A newly formed development team experienced difficulty with accurately estimating product backlog items. As a result, the team failed to deliver all of the features in the sprint backlog for the past two iterations. What should the team do to improve the accuracy of their estimates?
+    - [ ] A. Decrease the sprint time box until the team is able to deliver the entire agreed-upon sprint backlog in a single sprint
+    - [ ] B. Discuss estimating techniques in the daily scrum meeting
+    - [ ] C. Increase the size of the development team until the team is able to deliver the entire agreed-upon sprint backlog in a single sprint
+    - [ ] D. Begin tracking estimated effort metrics as an input to performance evaluation
+
+    <details>
+      <summary>Answer</summary>
+
+      A.
+
+    </details>
