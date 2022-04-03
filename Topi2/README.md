@@ -1,4 +1,4 @@
-# 单选题
+# Topic 2
 
 1. While reviewing the sprint burn down during a stand up, the scrum team identifies that they have fallen behind. Upon further discussion, they discover that some quality assurance (QA) team members were unable to use the new automation framework, which caused a bottleneck. What should the scrum team do?
     - [ ] A. For upcoming sprints, have QA team members ensure that their respective skill sets are considered when accepting stories
@@ -405,5 +405,255 @@
       <summary>Answer</summary>
 
       A.
+
+    </details>
+
+32. A team identifies the number of threats and lists them in the order in which they were identified. After analyzing a cause-and-effect diagram, the ownership of the threats and their treatment is assigned, and a number of risk cards are placed on the Kanban board. What approach should be used to manage these threats?
+    - [ ] A. Create a risk register detailing the threats, their causes, and their treatment strategies; and complete ownership to provide tighter risk control and a stakeholder communication tool
+    - [ ] B. Focus on the threats during the daily stand up and ensure they are visible to the entire team and other interested parties
+    - [ ] C. Prioritize the risks based on their criticality and timing, and track actions to closure
+    - [ ] D. Ensure that the prioritization of threats is complete, and that ownership actions are assigned and visible to everyone
+
+    <details>
+      <summary>Answer</summary>
+
+      D.
+
+    </details>
+
+33. A new product owner shares the product vision during the team launch event. The team asks for clarification on the product roadmap and its high-level features. What should the product owner do?
+    - [ ] A. Determine the required tasks for implementing the high-level features
+    - [ ] B. Identify the detailed design for the high-level features
+    - [ ] C. Prioritize the product backlog for the upcoming release
+    - [ ] D. Estimate the user stories in the iteration backlog
+
+    <details>
+      <summary>Answer</summary>
+
+      C: Clarification of the product roadmap should be done by prioritizing the backlog. (sequencing of deliverables over time). From PMI’s Agile Practice Guide, Page 52: “Product owners (or a product owner value team that includes the product manager and all relevant product owners for that area of the product,) might produce a product roadmap to show the anticipated sequence of deliverables over time.”
+
+    </details>
+
+34. What role should a servant leader perform to reduce team distractions and improve progress toward project goals?
+    - [ ] A. Managing: To ensure compliance with the project plan
+    - [ ] B. Mentoring: To share their knowledge with the team
+    - [ ] C. Controlling: To ensure compliance with the scope, budget, and schedule
+    - [ ] D. Auditing: To ensure adherence to organizational compliance policies
+
+    <details>
+      <summary>Answer</summary>
+
+      B.
+
+    </details>
+
+35. Based on the burndown chart, what is the iteration's status?
+
+    ![35](img/35.png)
+
+    - [ ] A. It trended ahead of schedule and completed everything on time
+    - [ ] B. It look more time than expected and had to be lengthened
+    - [ ] C. It trended behind schedule and did not complete everything on time
+    - [ ] D. It took less time than expected and had to be shortened
+
+    <details>
+      <summary>Answer</summary>
+
+      C.
+
+    </details>
+
+36. Due to its complexity, a new team member struggles with developing a concise user story. What advice should the agile practitioner give to assist with developing the story?
+    - [ ] A. Hand the story over to a more experienced team member
+    - [ ] B. Break the story up and focus on the most valuable parts
+    - [ ] C. Discuss the story at the next retrospective
+    - [ ] D. Pick another story from the product backlog
+
+    <details>
+      <summary>Answer</summary>
+
+      B.
+
+    </details>
+
+37. An agile project manager is planning the initial scope, schedule, and cost range estimates on a new project. The team will be using Kanban to control work. What metrics should the team use to measure performance?
+    - [ ] A. Lead time, throughput, and due date performance
+    - [ ] B. Work in progress limits, Kanban board, and time boxes
+    - [ ] C. Work item types, sprint cadences, and defect classes
+    - [ ] D. Burndown charts, scatter diagrams, and throughput
+
+    <details>
+      <summary>Answer</summary>
+
+      A.
+
+    </details>
+
+38. During an iteration review, the agile team asserts that a product is complete because development and review were finished. The product owner disagrees, since the product has not been tested. What should the agile practitioner do?
+    - [ ] A. Work with the agile team and product owner to agree on the definition of done
+    - [ ] B. Ask the project sponsor to determine whether the product is completed
+    - [ ] C. Plan another review after the product has been tested
+    - [ ] D. Add testing to the backlog, and have the product owner reprioritize
+
+    <details>
+      <summary>Answer</summary>
+
+      A: “The Definition of Done creates transparency by providing everyone a shared understanding of what work was completed as part of the Increment. If a Product Backlog item does not meet the Definition of Done, it cannot be released or even presented at the Sprint Review. Instead, it returns to the Product Backlog for future consideration.”
+
+    </details>
+
+39. A team is transitioning from a predictive approach to an agile approach. Historically, the team has delivered work products that did not meet customer expectations. What agile practice can help the team to alleviate this?
+    - [ ] A. Test-driven development (TDD)
+    - [ ] B. Clear definition of done and regular demos
+    - [ ] C. Collaborative team planning games
+    - [ ] D. Consistent team velocity
+
+    <details>
+      <summary>Answer</summary>
+
+      A, not sure.
+
+    </details>
+
+40. A team's technical lead believes that manual testing tasks should be conducted by junior team members below their level. The junior team members think it is unfair and refuse the tasks. What should the scrum master do?
+    - [ ] A. Tell the technical lead to do the testing
+    - [ ] B. Facilitate an open and focused team discussion that reinforces team agreements
+    - [ ] C. Ask the team manager to advise the technical lead that all tasks are important
+    - [ ] D. Encourage the team to take ownership of the delivery
+
+    <details>
+      <summary>Answer</summary>
+
+      B.
+
+    </details>
+
+41. Why should a project team reduce the work in progress?
+    - [ ] A. It indicates poor project quality
+    - [ ] B. It represents team members' utilization
+    - [ ] C. It represents unrealized value
+    - [ ] D. It shows that the project is behind schedule
+
+    <details>
+      <summary>Answer</summary>
+
+      C.
+
+    </details>
+
+42. During a retrospective, the agile practitioner discovers that a team member's process improvement idea has worsened the outcome. What should the agile practitioner do?
+    - [ ] A. Commend the team on trying the idea, then encourage discussion regarding alternatives
+    - [ ] B. Ask a manager to direct the team on fixing the process
+    - [ ] C. Encourage the team to continue executing the idea to see if it improves
+    - [ ] D. Privately speak with the team member to convey that their idea worsened the outcome
+
+    <details>
+      <summary>Answer</summary>
+
+      A.
+
+    </details>
+
+43. An experienced product owner presents the epics and corresponding stories during a release planning session with the established team. The executive sponsor asks the team when the features will be delivered. What should the agile team do?
+    - [ ] A. Evaluate how much can be delivered based on the Scrum Master's estimation
+    - [ ] B. Identify a set of user stories based on the team's velocity
+    - [ ] C. Initiate an estimation session
+    - [ ] D. Consult historical data for project completion
+
+    <details>
+      <summary>Answer</summary>
+
+      D: From PMI’s Agile Practice Guide, Page 60: “Metrics for agile projects contain meaningful information that provide a historical track record, because agile projects deliver value (finished work) on a regular basis. Project teams can use such data for improved forecasts and decision making.”
+
+    </details>
+
+44. A team member on a new scrum project previously provided support to another application. Due to issues with that application, the team member's former supervisor continues assigning them tasks related to that project. The new project's scrum master includes this issue in the risk register. What should the scrum master do next?
+    - [ ] A. Monitor the threats and risks while allowing the team member to multitask on both projects
+    - [ ] B. Assign more resources to the sprints to compensate for the absences of the team member
+    - [ ] C. Ensure that the threats and risks are communicated and addressed
+    - [ ] D. Assign fewer stories to the sprints so that the team member can still meet sprint goals
+
+    <details>
+      <summary>Answer</summary>
+
+      C.
+
+    </details>
+
+45. During iteration planning, it was determined that an epic should be decomposed. What was the determining factor?
+    - [ ] A. Size and priority
+    - [ ] B. Minimum marketable features
+    - [ ] C. Release plan
+    - [ ] D. Sprint mapping
+
+    <details>
+      <summary>Answer</summary>
+
+      A.
+
+    </details>
+
+46. An agile project manager notices that the product owner manages team members' day-to-day tasks in a way that distracts them from their core responsibilities. In addition, the team believes that their questions on product backlog prioritization are not being answered on time. What should the agile project manager do?
+    - [ ] A. Discuss and address this in the iteration retrospective
+    - [ ] B. Let the product owner know it is the project manager's responsibility to drive a team's tasks
+    - [ ] C. Discuss the roles and responsibilities of the project team with the product owner
+    - [ ] D. Ask the product owner to work extra hours to answer the team's questions
+
+    <details>
+      <summary>Answer</summary>
+
+      C.
+
+    </details>
+
+47. An agile project leader notices that the team's velocity has decreased. In examining data provided by team members, the project leader discovers that one team member has been slow to enter story statuses. What can happen as a result?
+    - [ ] A. The team will be unable to understand the iteration's status
+    - [ ] B. The team will be unable to judge the project design's validity
+    - [ ] C. The team cannot give accurate updates to management
+    - [ ] D. Team collaboration cannot be measured effectively
+
+    <details>
+      <summary>Answer</summary>
+
+      A.
+
+    </details>
+
+48. During product development, changes in technology and regulations require the team to reassess product architecture. How should this technical debt be captured?
+    - [ ] A. Include it in the product backlog and use a new indicator to annotate that it is technical debt
+    - [ ] B. Include it in the product backlog as a low-priority issue
+    - [ ] C. Since it is not a part of agile methodologies, it should not be tracked
+    - [ ] D. Have team members maintain personal lists of issues and consolidate the lists during review
+
+    <details>
+      <summary>Answer</summary>
+
+      A.
+
+    </details>
+
+49. A product owner asks a newly formed scrum team how many story points will be completed in a sprint. What should the scrum master do?
+    - [ ] A. Engage the team to determine the sprint velocity based on previous agile projects
+    - [ ] B. Average the sprint velocity based on input from team members
+    - [ ] C. Share the sprint velocity obtained from the sponsor with the team
+    - [ ] D. Run multiple sprints before determining the sprint velocity with the team
+
+    <details>
+      <summary>Answer</summary>
+
+      D, not sure
+
+    </details>
+
+50. A team member has spent 5 days on a spike and the first set of experiments has not been successful. The issue is the development team member has determined a short-term rather than a long-term solution. What should the project leader do?
+    - [ ] A. Assign the spike to another resource to continue research for the long-term solution
+    - [ ] B. Re-establish the spike, encourage experimentation and collaborate with the team
+    - [ ] C. Stop experimentation and negotiate the short-term solution with the customer
+    - [ ] D. Schedule a root-cause analysis with the development team on the main issues with the spike
+
+    <details>
+      <summary>Answer</summary>
+
+      B.
 
     </details>
