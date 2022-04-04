@@ -657,3 +657,133 @@
       B.
 
     </details>
+
+51. During its first sprint, a new scrum team realizes that it has insufficient team members with test automation skills to effectively complete its stories. What should the team do?
+    - [ ] A. Cross-train some members in the automation framework to broaden their capacity with that skill
+    - [ ] B. Ask the product owner to add team members to boost this particular skill set
+    - [ ] C. Send a member to automation framework training when funds are available
+    - [ ] D. Avoid using test automation by swarming on the testing tasks and using manual testing
+
+    <details>
+      <summary>Answer</summary>
+
+      A.
+
+    </details>
+
+52. A new team member asks what changes could accelerate a change to the project plan. What should be the proper response?
+    - [ ] A. Competitors joined forces with the team
+    - [ ] B. The customer changed requirements
+    - [ ] C. Project team members obtained additional certifications
+    - [ ] D. Technology which did not interfere with the final product
+
+    <details>
+      <summary>Answer</summary>
+
+      B.
+
+    </details>
+
+53. During sprint planning the product owner wants the team to prioritize and deliver a number of features which have the highest business value. Due to technical dependencies, the team does not agree with the prioritization. What should the project leader do?
+    - [ ] A. Encourage the product owner and team to reprioritize the features and select ones which can be delivered without any dependencies
+    - [ ] B. Encourage the team to continue with the current plan, do what they can, and carry forward the work not done to the next iteration
+    - [ ] C. Ensure the team captures the technical dependencies as issues within the backlog and prioritize based on value optimization
+    - [ ] D. Ensure that the required subject matter experts (SMEs) are engaged by the product owner to help with backlog prioritization
+
+    <details>
+      <summary>Answer</summary>
+
+      C.
+
+    </details>
+
+54. When a team member encounters an issue in an agile environment, what should they do?
+    - [ ] A. Limit communication between the team members and the customer to prevent unnecessary anxiety
+    - [ ] B. Manage communication between all team members and the customer to promote effective and transparent collaboration
+    - [ ] C. Manage communication between a few team members and the customer so that they may convey information to other team members
+    - [ ] D. Facilitate one-on-one communication between team members to reduce conflict and inefficiencies
+
+    <details>
+      <summary>Answer</summary>
+
+      B.
+
+    </details>
+
+55. During a planning session, four out five team members vote to include eight story points in a particular story, while the fifth member votes for five story points. How should this be handled?
+    - [ ] A. The story should be assigned eight story points as per the majority vote
+    - [ ] B. The story should be added to the backlog and reassessed later
+    - [ ] C. The story should be assigned points after a discussion with the fifth team member to see if a consensus can be reached
+    - [ ] D. The decision for the number of story points should be made by the customer
+
+    <details>
+      <summary>Answer</summary>
+
+      C, not sure.
+
+    </details>
+
+56. An agile coach is assigned to help a project team that was recently co-located close to a very popular business. Many team members visit this business during working hours which affects team performance. What should the agile coach do to mitigate this issue?
+    - [ ] A. Speak with the functional managers and come to an agreement that will resolve the issue
+    - [ ] B. Explain to functional managers that too much control will inversely impact team morale
+    - [ ] C. Meet with the team to discuss the issue and identify specific actions to reduce or eliminate the issue
+    - [ ] D. Inform the team there will be penalties to anyone who visits that business during working hours
+
+    <details>
+      <summary>Answer</summary>
+
+      C.
+
+    </details>
+
+57. A newly formed scrum team wants to foster an environment of transparency and experimentation. The team decides to use a Kanban board to record and track encountered impediments. Emphasis is placed on how issues are resolved and the strategies for preventing them in the future. Over time, what will be the result of this approach?
+    - [ ] A. Kaizen
+    - [ ] B. Specific, measurable, assignable, realistic, and time-based (SMART) goals
+    - [ ] C. Key performance indicators (KPIs)
+    - [ ] D. Muda
+
+    <details>
+      <summary>Answer</summary>
+
+      A.
+
+    </details>
+
+58. During a sprint review, the product owner identifies a required improvement for a feature's user interface (UI) delivered during the sprint. What should the product owner do next?
+    - [ ] A. Create a user story for this new improvement and put it in the product backlog for prioritization and validation by the customer
+    - [ ] B. Create a user story for this new improvement and prioritize it for the next sprint
+    - [ ] C. Document it as a requirement creep
+    - [ ] D. Ask the team to take on additional story points to improve the UI
+
+    <details>
+      <summary>Answer</summary>
+
+      B.
+
+    </details>
+
+59. Trend analysis shows that velocity is significantly higher than predicted and the release can be completed one month ahead of schedule. The team recommends changing the end date to reflect this. What should the agile practitioner do?
+    - [ ] A. Jointly meet with the team and product owner to discuss options and determine the end date
+    - [ ] B. Announce that the team has exceeded the predicted velocity, and that the end date will be earlier than planned
+    - [ ] C. Ask the product owner to include additional features in the product backlog, then replan subsequent iterations
+    - [ ] D. Ask the team to decrease velocity to meet contractual obligations and document this decision
+
+    <details>
+      <summary>Answer</summary>
+
+      A.
+
+    </details>
+
+60. A seven-member agile team's composition varies considerably in age, gender, culture, personality type, and professional background. When planning a team-building event, what type of interpersonal skills should the project leader use?
+    - [ ] A. Networking
+    - [ ] B. Social awareness
+    - [ ] C. Communication
+    - [ ] D. Leadership
+
+    <details>
+      <summary>Answer</summary>
+
+      B.
+
+    </details>
