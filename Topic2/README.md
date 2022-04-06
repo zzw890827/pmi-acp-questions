@@ -787,3 +787,133 @@
       B.
 
     </details>
+
+61. A team using Kanban identifies that their cycle time has significant variation. After brainstorming, the team determines that the root cause is the stories' varying sizes and risks. What should the team do?
+    - [ ] A. Reduce work in progress (WIP) limits to accommodate slack for riskier stories
+    - [ ] B. Create a triage step on the Kanban board to pre-identify risky stories
+    - [ ] C. Set a policy to break down stories larger than a specified complexity, then adjust the WIP
+    - [ ] D. Create a dedicated overflow swimlane on the Kanban board for stories that are too large
+
+    <details>
+      <summary>Answer</summary>
+
+      C.
+
+    </details>
+
+62. An agile team is under pressure to deliver an application. The product owner anticipates many change requests from customers once the product is released. What should the agile team do?
+    - [ ] A. Demand frequent product reviews by the product owner
+    - [ ] B. Continuously work with the product owner to do backlog refinement and product reviews
+    - [ ] C. Have the product owner provide detailed requirement specifications to ensure the proper features are delivered
+    - [ ] D. During the planning session, ensure the team is committed to deliver within the specifications
+
+    <details>
+      <summary>Answer</summary>
+
+      B.
+
+    </details>
+
+63. The product owner of an agile project is frustrated because the team is unable to deliver as many features as expected. The product owner asks the team to reduce test-automation levels, since the quality assurance team will test the product at project completion. The product owner expects that more features will be delivered in each iteration using this approach. What should the agile practitioner do?
+    - [ ] A. Ask the opinion of key stakeholders and the client to ensure the correct approach is being used
+    - [ ] B. Work with the team to use this approach, and request a quality assurance iteration after every three iterations
+    - [ ] C. Propose to completely eliminate test automation, since this is a quality assurance function
+    - [ ] D. Suggest merging the quality assurance and delivery teams to enhance each iteration's test-automation levels and reduce redundancy
+
+    <details>
+      <summary>Answer</summary>
+
+      D.
+
+    </details>
+
+64. A product owner feels that the last sprint failed to sufficiently deliver what was valuable to their organization's overall project goals. What should the scrum master mention at the next retrospective?
+    - [ ] A. Solutions to project problems that were built into the last sprint
+    - [ ] B. Problems that arose
+    - [ ] C. Solutions that saved the organization the most time and money
+    - [ ] D. Problems that were solved
+
+    <details>
+      <summary>Answer</summary>
+
+      B, not clear.
+
+    </details>
+
+65. An agile team is working on a new product. To ensure that all unknown issues are clarified before committing to the scope, the team plans to work only on spike user stories for the next three sprints. What should the agile coach do in this situation?
+    - [ ] A. Ensure that the spikes identify the risks early in the project to increase the chances of success
+    - [ ] B. Ensure that the business sponsor accepts the proposal and agrees to fund the additional spike sprints
+    - [ ] C. Recommend that, in the first sprint, user stories with higher priority be executed in addition to the spike
+    - [ ] D. Support the decision, because release planning will be improved, and the product backlog can be better groomed after all spikes are executed
+
+    <details>
+      <summary>Answer</summary>
+
+      C.
+
+    </details>
+
+66. During a team meeting, members who are subject matter experts (SMEs) mention that they are continuously working on repetitive tasks, which has lowered motivation. What should the agile practitioner do?
+    - [ ] A. Organize a team-building activity to improve team morale
+    - [ ] B. Have team members work in pairs to learn from each other and develop new skills
+    - [ ] C. Ask team members to perform a value stream analysis of their activities
+    - [ ] D. Add more resources to the team to help with the tasks
+
+    <details>
+      <summary>Answer</summary>
+
+      A, not clear.
+
+    </details>
+
+67. A project's first iteration contains item A, and its second iteration contains item B. The first iteration is behind schedule, which will impact the second iteration. Since items A and B are similar, a team member suggests beginning the design of item B. What should the agile practitioner do?
+    - [ ] A. Defer starting the design of item B until the second iteration is being planned
+    - [ ] B. Proceed with the design of item B, since it will hasten the second iteration
+    - [ ] C. Escalate the issue to the customer, and obtain their approval before starting the design of item B
+    - [ ] D. Log the issue in the risk register, and request change control board (CCB) approval
+
+    <details>
+      <summary>Answer</summary>
+
+      B.
+
+    </details>
+
+68. Midway through a sprint, a team member discovers that the product design fails to adhere to the organization's enterprise architecture standards. Since this required escalation to the architecture team for further analysis and resolution, the team was unable to deliver its sprint goal and the sprint was cancelled. What should the team have done to avoid this?
+    - [ ] A. Escalated the issue to management
+    - [ ] B. Ensured the early engagement of key stakeholders
+    - [ ] C. Provided feedback to the architecture team to change the enterprise architecture standards
+    - [ ] D. Raised an exception for non-adherence to the enterprise architecture standards for this product
+
+    <details>
+      <summary>Answer</summary>
+
+      B.
+
+    </details>
+
+69. While struggling to take ownership of delivery, an agile team fails to keep up with its sprint commitments. What should the agile coach do?
+    - [ ] A. Work with the sponsor to develop team expectations
+    - [ ] B. Provide the customer with a list of deliverables and obtain agreement
+    - [ ] C. Encourage the team to more frequently interact with all stakeholders
+    - [ ] D. Work on finishing upfront product design rather than comprehensive documentation
+
+    <details>
+      <summary>Answer</summary>
+
+      C.
+
+    </details>
+
+70. During a review session, a customer representative is concerned that a story fails to satisfy the scope of work. However, the product owner declares that the scope of work is complete. What should be done with this story?
+    - [ ] A. Mark it as incomplete and prioritize it for the next sprint
+    - [ ] B. Mark it as complete, since the product owner has the final say
+    - [ ] C. Discard it and create a new story for the remaining scope of work
+    - [ ] D. Mark it as complete, since the team completed the scope of work
+
+    <details>
+      <summary>Answer</summary>
+
+      B.
+
+    </details>
