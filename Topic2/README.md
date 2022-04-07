@@ -917,3 +917,107 @@
       B.
 
     </details>
+
+71. A project team realizes that an important task on the iteration backlog will take more time than originally estimated. What should the project team do?
+    - [ ] A. Continue working on the task until it is completed
+    - [ ] B. Remove the task owner from the project team
+    - [ ] C. Add resources to reduce time to task completion
+    - [ ] D. Stop working on the task and include it in the next iteratio
+
+    <details>
+      <summary>Answer</summary>
+
+      A.
+
+    </details>
+
+72. On an agile project, some of the development team is struggling to understand how the tasks and user stories fit into the overall product. How should this be addressed?
+    - [ ] A. Review the iteration goals and have the team each describe the work to create shared understanding
+    - [ ] B. Create a story map for the minimal viable product (MVP) functionality
+    - [ ] C. Capture this as a task in the retrospective and ensure there is more detail provided at the next planning session
+    - [ ] D. Have the product owner explain the product vision and review the release plan with the team
+
+    <details>
+      <summary>Answer</summary>
+
+      B, not sure.
+
+    </details>
+
+73. The product owner of a team starts the iteration review with a quick walkthrough of the iteration goal, the list of planned stories with status, and a demo of all the stories to the business. What should the product owner have done differently?
+    - [ ] A. Demonstrated only the completed stories and seek stakeholder feedback
+    - [ ] B. Presented the budget situation and review the cost variance
+    - [ ] C. Reviewed the test results to gain confidence from the stakeholders
+    - [ ] D. Presented a demo of all the stories including the work in progress stories
+
+    <details>
+      <summary>Answer</summary>
+
+      A.
+
+    </details>
+
+74. An organization initiates a pilot project to introduce agile methodology for the successful delivery of projects. What should the project manager do to share this project's knowledge and learning with wider organizational business groups?
+    - [ ] A. Invite people from across the organization to attend daily stand ups
+    - [ ] B. Invite people from across the organization to attend retrospectives
+    - [ ] C. Invite people from across the organization to attend the release meeting and project retrospectives
+    - [ ] D. Regularly meet with people across the organization to share the project's lessons learned and best practices
+
+    <details>
+      <summary>Answer</summary>
+
+      D.
+
+    </details>
+
+75. An executive sponsor of a new scrum team actively attends scrum ceremonies. How does this benefit the team?
+    - [ ] A. It helps the team to focus on and meet sprint goals
+    - [ ] B. It reminds the team about who sponsors the project
+    - [ ] C. It provides high-level project updates to the sponsor
+    - [ ] D. It helps to quickly resolve issues using the sponsor's influence
+
+    <details>
+      <summary>Answer</summary>
+
+      D.
+
+    </details>
+
+76. A product owner for two highly visible projects spends a great deal of time meeting with and reporting to senior stakeholders. The product owner is overwhelmed because both project teams request clarification on the requirements and the overall priorities. What should the agile project manager do?
+    - [ ] A. Provide both project teams with the highest priority needs
+    - [ ] B. Request the project teams' questions in writing prior to the next meeting
+    - [ ] C. Facilitate a meeting with each team and the product owner to find a solution
+    - [ ] D. Provide both teams with each project's documentation
+
+    <details>
+      <summary>Answer</summary>
+
+      C.
+
+    </details>
+
+77. During the iteration planning of a newly onboarded agile team, the product owner adds a set of high priority user stories into the iteration backlog. What should the team do first to define the tasks needed to implement the user stories?
+    - [ ] A. Self-organize
+    - [ ] B. Assign tasks to each team member
+    - [ ] C. Meet with the customer
+    - [ ] D. Identify the Scrum Master
+
+    <details>
+      <summary>Answer</summary>
+
+      A.
+
+    </details>
+
+78. Stakeholders are displeased with the latest release of a product's software. While most stakeholders attended every sprint review, they were otherwise largely uninvolved in the project. What should the agile practitioner have done to ensure stakeholder satisfaction?
+    - [ ] A. Communicated early and often, as outlined in the communications matrix
+    - [ ] B. Ensured engagement among stakeholders and the product owner
+    - [ ] C. Conducted additional stakeholder reviews and demos
+    - [ ] D. Worked with the product owner to prioritize user stories
+
+    <details>
+      <summary>Answer</summary>
+
+      B.
+
+    </details>
